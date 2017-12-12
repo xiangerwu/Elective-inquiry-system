@@ -1,7 +1,6 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link href="images/momoka.ico" rel="SHORTCUT ICON">
         <title>第一題</title>
         <link rel=stylesheet type="text/css" href="pds.css">
         <style>
