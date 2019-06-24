@@ -3,8 +3,7 @@
 努力的把作業做出來了，需先架設 MySQL 資料庫並讀取 stust.sql
 
 * 查詢畫面
-
-![](https://github.com/xiangerwu/Elective-inquiry-system/blob/master/images/preview.jpg)
+        ![](https://github.com/xiangerwu/Elective-inquiry-system/blob/master/images/preview.jpg)
 
 * 題目與心得：
 
@@ -27,4 +26,5 @@
 
 5. 擷取每科成績全都為 A 的所有學生的姓名與主修系所名稱。
 
-        心得:絞盡腦汁想出來如何篩選成績全為 A 的語法，一樣增加了可以查看其他 B,C 之類的成績，不過這題難度好高，最麻煩的部分是不能在 WHERE 之後使用 COUNT （看向教授上課講解考卷的語法），但還是完成了
+        心得:絞盡腦汁想出來如何篩選成績全為 A 的語法，一樣增加了可以查看其他 B,C 之類的成績，
+        不過這題難度有點高，最麻煩的部分是不能在 WHERE 之後使用 COUNT ，但還是完成了
