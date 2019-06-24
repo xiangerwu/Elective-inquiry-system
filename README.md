@@ -4,7 +4,8 @@
 
 * 查詢畫面
 
-![]()
+![](https://github.com/xiangerwu/Elective-inquiry-system/blob/master/images/preview.jpg)
+
 * 題目與心得：
 
 1. 擷取所有主修（Major）為 CS 的學生姓名及學號。
